@@ -2,7 +2,6 @@
 
 
 
-
 #include "stdgfx.h"
 #include "gfxxwin.h"
   
